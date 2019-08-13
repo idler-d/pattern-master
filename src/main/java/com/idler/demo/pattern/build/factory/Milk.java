@@ -1,0 +1,10 @@
+package com.idler.demo.pattern.build.factory;
+
+/**
+ * @author idler
+ * Created on 2019/8/13 0013
+ */
+public interface Milk {
+
+  abstract String getName();
+}
