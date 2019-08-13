@@ -1,4 +1,4 @@
-package com.idler.demo.pattern.build.factory.func;
+package com.idler.demo.pattern.build.factory.program.v3.func;
 
 import com.idler.demo.pattern.build.factory.Milk;
 import com.idler.demo.pattern.build.factory.Yili;
